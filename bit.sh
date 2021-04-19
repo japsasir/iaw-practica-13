@@ -37,6 +37,6 @@ confirme    -password123
 nombre blog -Practica13 BitnamiStack
 config correo?  -no
 continuar?  -yes
-
+lanzar wordpress? -yes
 
 '
