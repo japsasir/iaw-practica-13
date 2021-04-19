@@ -32,6 +32,14 @@ La clave privada es *UbuntuServerjpadilla.pem*
 
 https://bitnami.com/stack/wordpress/installer
 
+![](https://i.imgur.com/rt8aqS8.png)
+Lanzando el archivo ejecutable.
+
+![](https://i.imgur.com/dwPcfuD.png)
+Apariencia de la instalación sin interfaz gráfica.
+
+![](https://i.imgur.com/5svArJg.png)
+Mensaje de Wordpress tras la instalación.
 
 
 **Archivos en el repositorio**
