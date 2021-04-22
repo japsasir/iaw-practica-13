@@ -15,8 +15,6 @@ https://bitnami.com/
 ------------
 1. Crear una máquina virtual en Amazon EC2. Igual que en la práctica anterior, necesitaremos una máquina Ubuntu Server con 2 GB de capacidad.
 
-![](https://i.imgur.com/gU2pzHo.png)
-
 2. Configurar los puertos que estarán abiertos para poder conectarnos por SSH y para poder acceder por HTTP/HTTPS.
 
 - SSH (TCP) 22
